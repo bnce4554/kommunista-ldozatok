@@ -1,0 +1,10 @@
+body{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Marx_Engels_Lenin.svg/1200px-Marx_Engels_Lenin.svg.png);
+    background-color: black;
+    color: white;
+}
+
+table{
+    border: 5px;
+    border-color: white;
+}
